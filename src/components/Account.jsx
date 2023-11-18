@@ -20,22 +20,6 @@ const Account = () => {
       <h1 className="text-2xl font-bold py-4">Accounts</h1>
       <p>User Email: {user && user.email}</p>
       <h1 className="text-2xl font-bold py-4">this is a test</h1>
-      <h1 className="text-2xl font-bold py-4">this is a test</h1>
-      <h1 className="text-2xl font-bold py-4">this is a test</h1>
-      <h1 className="text-2xl font-bold py-4">this is a test</h1>
-      <h1 className="text-2xl font-bold py-4">this is a test</h1>
-      <h1 className="text-2xl font-bold py-4">this is a test</h1>
-      <h1 className="text-2xl font-bold py-4">this is a test</h1>
-      <h1 className="text-2xl font-bold py-4">this is a test</h1>
-      <h1 className="text-2xl font-bold py-4">this is a test</h1>
-      <h1 className="text-2xl font-bold py-4">this is a test</h1>
-      <h1 className="text-2xl font-bold py-4">this is some more tests</h1>
-      <h1 className="text-2xl font-bold py-4">this is some more tests</h1>
-      <h1 className="text-2xl font-bold py-4">this is some more tests</h1>
-      <h1 className="text-2xl font-bold py-4">this is some more tests</h1>
-      <h1 className="text-2xl font-bold py-4">this is some more tests</h1>
-      <h1 className="text-2xl font-bold py-4">this is some more tests</h1>
-      <h1 className="text-2xl font-bold py-4">this is some more tests</h1>
 
 
       <button onClick={handleLogout} className="border px-6 py-2 my-4">
